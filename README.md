@@ -29,6 +29,6 @@ My first real look at what it means to automate something people actually use.
 ---
 
 
-> *Code. Learn. Build. Repeat.*
+ *Code. Learn. Build. Repeat.*
 
 → [LinkedIn](https://linkedin.com/in/rishitabodh-upadhyaya-311a9b350)
