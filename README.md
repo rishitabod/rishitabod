@@ -50,11 +50,11 @@ A workflow that reduced manual back-and-forth in network request handling. My fi
 ## Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishitabod&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitabod&layout=compact&theme=github_dark&hide_border=true&hide=javascript" height="165" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishitabod&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ---
 
