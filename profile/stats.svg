@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Rishitabodh Upadhyaya 's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 123, Total PRs: 9, Total Issues: 0, Contributed to (last year): 3</desc>
+        <title id="titleId">Rishitabodh Upadhyaya &#39;s GitHub Stats, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 127, Total PRs: 9, Total Issues: 0, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 231.85344177607195;
+        stroke-dashoffset: 231.52495243586338;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Rishitabodh Upadhyaya 's GitHub Stats</text>
+      >Rishitabodh Upadhyaya &#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >123</text>
+      >127</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
